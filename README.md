@@ -9,7 +9,7 @@ You must have the .NET SDK installed. [.NET Core 3.1](https://dotnet.microsoft.c
 You can quickly build and test after clone it
 
 - `console`
-- `cd tdd-tictactoe`
+- `cd tdd-katas`
 - `dotnet build`
 - `dotnet test`
 
